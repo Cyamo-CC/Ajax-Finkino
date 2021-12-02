@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+    
+}
+h1{
+  color: white;
+  font-size: 52px;
+  text-align: center;  
+}
+.dropbutton{
+   
+    width:20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 16px;
+    font-size: 20px;
+    border-radius: 7%;
+    background-color: rgb(255, 255, 255);
+}
+.dropbutton:hover, .dropbutton:focus {
+    background-color: rgb(139, 139, 139);
+}
+.B-container{
+    width:100%;
+   
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+   
+  
+}
+#dropContent {
+    display: none;
+    position: Absolute;
+ 
+}
+#listaus{
+    background-color: rgb(223, 87, 8);
+    text-align: center;
+    width:100%;
+    padding: 15px;
+    
+    
+}
+td:hover{
+    background-color: gray;
+}
+.teatterit{
+    background-color: white;
+    border: 2px solid black;
+    padding:7px;
+    border-radius: 7%;
+    
+}
+.oikealla{
+    position: relative;
+    top: 15.8%;
+    width:75%;
+    margin-right: auto;
+    margin-left: auto;
+    
+    background-color: rgba(207, 207, 207, 0.822);
+}
+.vasemmalla{
+    position: relative;
+    left: 0px;
+    top: 15.8%;
+    width:12%;
+    
+}
+.elokuva{
+    width:33%;
+    display: inline-block;
+    align-content: center;
+    
+}
+.kuvat{
+    padding:30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kuvaus{
+    text-align:left;
+    width:100%;
+}
