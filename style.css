@@ -57,8 +57,8 @@ td:hover{
     position: relative;
     top: 15.8%;
     width:75%;
-    margin-right: auto;
-    margin-left: auto;
+   
+    margin-left: 20%;
     
     background-color: rgba(207, 207, 207, 0.822);
 }
@@ -70,17 +70,23 @@ td:hover{
     
 }
 .elokuva{
-    width:33%;
+    width:50%;
     display: inline-block;
     align-content: center;
     
 }
 .kuvat{
-    padding:30px;
-    margin-left: auto;
-    margin-right: auto;
+    width:70%;
+    padding:5%;
+    margin-left: 5%;
+    align-content: center;
+    
+   
 }
 .kuvaus{
     text-align:left;
-    width:100%;
+    width:30%;
+    display: inline-block;
+    align-content: center;
+    margin:10px;
 }
