@@ -26,4 +26,5 @@ After some research I found that the API site has other files. One schedule file
 
 
 This would mean multiple file feches to EACH theatre are link separately.
-If I had time I would go and link them, however this prohect has time limitations and I decided to leave as it is. For nov. 
+If I had time I would go and link them, however this prohect has time limitations and I decided to leave as it is. For now. 
+Here is the link to main APi page: https://www.finnkino.fi/xml
